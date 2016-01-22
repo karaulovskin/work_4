@@ -1,3 +1,5 @@
+git clone https://github.com/karaulovskin/work_4.git site
+
 required: ruby;
 
 1. gem install compass
